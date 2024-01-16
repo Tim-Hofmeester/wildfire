@@ -1,4 +1,4 @@
-# wildfire
+# Wildfire MS
 Data and code for manuscript: Wildfire influences species assemblage and habitat utilisation of boreal wildlife after more than a decade in northern Sweden.
 
 <b>Abstract</b>
