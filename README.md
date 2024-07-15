@@ -7,3 +7,7 @@ Fires can strongly change the vegetation structure and the availability of resou
 
 <b>Description</b>
 The Wildfire-Data.RData file contains a list with two data frames and a matrix: "species.observations" is a data frame which contains the number of observations of each species per camera-trap location, "covariates" is a data frame which contains the covariate data per camera-trap location, and "offset" is a matrix which contains the offset used in the analyses as a combination of species and location specific Effective Detection Distance and the number of days each camera was active. All annotated code for the analyses using ManyGLM are given in ManyGLM.R
+
+<b>Repository</b>
+A secured version of the data and code as used in the published article can be found on Zenodo:
+<a href="https://zenodo.org/doi/10.5281/zenodo.12743387"><img src="https://zenodo.org/badge/744022943.svg" alt="DOI"></a>
